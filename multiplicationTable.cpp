@@ -34,7 +34,8 @@ int main(){
 
     }
     else
-        cout<<"You entered wrong number ...!";
+        cout<<"You entered wrong number ...!" << endl;
+        cout <<"Kindly Choose correct one between 1 & 2 . Thank You ";
 
     return 0;
 }
